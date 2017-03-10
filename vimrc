@@ -10,6 +10,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Plugin 'terryma/vim-expand-region'
+Plugin 'chaoren/vim-wordmotion'
 
 call vundle#end()
 filetype plugin indent on    " required"
