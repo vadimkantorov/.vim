@@ -1,6 +1,8 @@
-set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab " tabs
-set viminfo='20,<1000 " extended copy-paste buffer
-set hlsearch " highlight all search results
+set autoindent noexpandtab tabstop=4 shiftwidth=4
+set encoding=utf8
+set viminfo='20,<1000,s1000
+set hlsearch
+
 colorscheme delek
 highlight Search ctermfg=Black " adjust highlighting fg color for delek colorscheme
 
