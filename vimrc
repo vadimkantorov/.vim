@@ -1,6 +1,6 @@
 set autoindent noexpandtab tabstop=4 shiftwidth=4
 set encoding=utf8
-set viminfo='20,<1000,s1000
+set viminfo='20,<10000,s10000
 set hlsearch
 
 colorscheme delek
