@@ -2,6 +2,9 @@ set autoindent noexpandtab tabstop=4 shiftwidth=4
 set encoding=utf8
 set viminfo='20,<10000,s10000
 set hlsearch
+set term=xterm-256color
+
+
 
 colorscheme delek
 highlight Search ctermfg=Black " adjust highlighting fg color for delek colorscheme
