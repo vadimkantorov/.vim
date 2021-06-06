@@ -1,5 +1,5 @@
 "set autoindent noexpandtab tabstop=4 shiftwidth=4
-set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab autoindent
 set encoding=utf8
 set viminfo='20,<10000,s10000
 set hlsearch
