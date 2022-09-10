@@ -8,3 +8,11 @@ Edit `~/.vim/vimrc` and run `:PluginInstall` or `:PluginUpdate`
 
 # Update Vundle itself
 ```git submodule update --init && git push```
+
+```
+[user]
+        email = vadimkantorov@gmail.com
+        name = Vadim Kantorov
+[core]
+        editor = vim
+```
