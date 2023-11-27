@@ -4,7 +4,7 @@ set viminfo='20,<10000,s10000
 set hlsearch
 set term=xterm-256color
 set noincsearch
-set spell spelllang=en_us
+set spell spelllang=en_us,ru,fr
 
 colorscheme delek
 
